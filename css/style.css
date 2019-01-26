@@ -3,6 +3,13 @@ body {
 	padding: 0 40px 0 40px;
 }
 
+.jumbotron {
+	border: 1px #000 solid;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sEfmN0sX-dqPjB48xCFg4bZsWLtRTnCvim936t7M8rDdkTTe);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .wrapper {
 	background: #fff;
 	padding: 20px;
